@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Sheila Alves
-- 👀 I'm currently seeking knowledge to help in my career transition.
+- 👋 Hi, I’m Sheila Gregorutti
+- 👀 I'm currently in career transition.
 - 🌱 I’m studying Web Development
 - 📫 How to reach me:
 
