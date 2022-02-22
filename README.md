@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sheila Alves Gregorutti
+- 👋 Hi, I’m Sheila Alves
 - 👀 I'm currently in career transition.
 - 🌱 I’m studying Web Development
 - 📫 How to reach me:
