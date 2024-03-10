@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sheila Alves
 - 👀 I'm currently in career transition.
-- 🌱 I’m studying Web Development
+- 🌱 I’m studying Python, Power Bi and SQL for became a data analyst
 - 📫 How to reach me:
 
 <div> 
